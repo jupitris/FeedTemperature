@@ -1,5 +1,5 @@
-# Author @nonNoise
-# See the http://kitagami.org/Study/Arduinopy20130120/20130120.html
+// Author @nonNoise
+// See the http://kitagami.org/Study/Arduinopy20130120/20130120.html
 #include "string.h"
 
 // the setup routine runs once when you press reset:
